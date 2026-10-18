@@ -7,7 +7,7 @@ Pensado para pequeños negocios que hoy arman estos reportes a mano en Excel.
 ## Instalación
 
 ```bash
-git clone <URL-de-tu-repositorio>
+git clone https://github.com/hackerkiller73/reportes-python.git
 cd reportes-python
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
